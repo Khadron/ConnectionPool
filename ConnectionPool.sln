@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionPool", "ConnectionPool\ConnectionPool.csproj", "{AB68AAD9-6DE8-4847-907E-5E9BEA3775D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionPool.Test", "ConnectionPool.Test\ConnectionPool.Test.csproj", "{7DC27D26-2B9F-41A9-BAFF-378F43541212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB68AAD9-6DE8-4847-907E-5E9BEA3775D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB68AAD9-6DE8-4847-907E-5E9BEA3775D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB68AAD9-6DE8-4847-907E-5E9BEA3775D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB68AAD9-6DE8-4847-907E-5E9BEA3775D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC27D26-2B9F-41A9-BAFF-378F43541212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC27D26-2B9F-41A9-BAFF-378F43541212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC27D26-2B9F-41A9-BAFF-378F43541212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC27D26-2B9F-41A9-BAFF-378F43541212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

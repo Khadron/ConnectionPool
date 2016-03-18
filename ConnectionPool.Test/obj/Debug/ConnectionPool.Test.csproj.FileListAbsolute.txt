@@ -1,0 +1,5 @@
+C:\Users\Qiang Kong\Documents\Visual Studio 2012\Projects\ConnectionPool\ConnectionPool.Test\bin\Debug\ConnectionPool.Test.exe
+C:\Users\Qiang Kong\Documents\Visual Studio 2012\Projects\ConnectionPool\ConnectionPool.Test\bin\Debug\ConnectionPool.Test.pdb
+C:\Users\Qiang Kong\Documents\Visual Studio 2012\Projects\ConnectionPool\ConnectionPool.Test\obj\Debug\ConnectionPool.Test.csprojResolveAssemblyReference.cache
+C:\Users\Qiang Kong\Documents\Visual Studio 2012\Projects\ConnectionPool\ConnectionPool.Test\obj\Debug\ConnectionPool.Test.exe
+C:\Users\Qiang Kong\Documents\Visual Studio 2012\Projects\ConnectionPool\ConnectionPool.Test\obj\Debug\ConnectionPool.Test.pdb
